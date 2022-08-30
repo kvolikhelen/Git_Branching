@@ -1,4 +1,4 @@
-package HusnaWork;
+package husna_work;
 
 public class HelloHusna {
     public static void main(String[] args) {
