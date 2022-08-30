@@ -2,9 +2,11 @@ package pages;
 
 public class AmazonPage {
 
-    //html for menu
+    // html for menu
 
     // html for search buttons
     
-    //html for deals page
+    // html for deals page
+    
+    // team member line
 }
